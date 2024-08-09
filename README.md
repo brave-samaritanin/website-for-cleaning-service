@@ -1,5 +1,7 @@
 Website for cleaning service have a responsive navigation menu, a services section that lists the cleaning services offered, contact form through which customers can reach the business owner.
 
+Features - a price calculator to provide cleaning service pricing; a map that shows the company's service areas.
+
 To run locally:
 
 1. Before you begin, ensure you have the following installed on your machine: Node.js and npm
