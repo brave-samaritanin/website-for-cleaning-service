@@ -1,0 +1,339 @@
+.Services{
+	display: flex;
+	flex-direction: column;
+	height: 75vh;
+	max-height: fit-content;
+	background-color: white
+}
+
+
+h2{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 30px;
+	height: 10vh;
+	color: #e3e5f2;
+	background-color: #504fb4f0;
+	margin-bottom: 0.1vh;
+    margin-top: 0.1vh;
+}
+
+
+
+.Services .Container{
+	height: 70vh;
+}
+
+.Services .Container .Wrapper{
+	display: flex;
+	flex-direction: row;
+	gap: 4vw;
+	justify-content: space-between;
+	align-items: center;
+	height: 70vh;
+	padding: 0vh 4vw 0vh 4vw;
+}
+
+.Services .Container .Wrapper .HomeCleaning{
+	width: 20vw;
+	height:  60vh;
+	display: flex;
+	padding-top: 2.5vh;
+	padding-bottom: 2.5vh;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.Services .Container .Wrapper .HomeCleaning .Main{
+	display: flex;
+	flex-direction: column;
+	height: 40vh;
+	width: 20vw;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+
+.Services .Container .Wrapper .HomeCleaning .Main h4{
+	background-color: #504fb4f0;
+	color: #e3e5f2;
+	height: 10vh;
+	width: 20vw;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-weight: bold;
+	font-size: 20px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+
+.Services .Container .Wrapper .HomeCleaning .Main .Image{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 30vh;	
+	width: 20vw;
+	border-top-right-radius: 0px;
+	border-top-left-radius: 0px;
+	
+}
+
+
+	
+.Services .Container .Wrapper .HomeCleaning .Texts{
+	width: 20vw;
+	height: 20vh;
+	display: flex;
+	flex-direction: column;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+	
+.Services .Container .Wrapper .HomeCleaning .Texts p{
+	background-color:#504fb4f0;
+	color: #e3e5f2;
+	height: 20vh;
+	width: 18vw;
+	display: flex;
+	align-items: center;
+	padding: 1vw;
+	font-weight: normal;
+	font-size: 14px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+
+/*Post Construction */
+.Services .Container .Wrapper .PostConstruction{
+	width: 20vw;
+	height:  60vh;
+	display: flex;
+	padding-top: 2.5vh;
+	padding-bottom: 2.5vh;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.Services .Container .Wrapper .PostConstruction .Main{
+	display: flex;
+	flex-direction: column;
+	height: 40vh;
+	width: 20vw;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+
+.Services .Container .Wrapper .PostConstruction .Main h4{
+	background-color: #504fb4f0;
+	color: #e3e5f2;
+	height: 10vh;
+	width: 20vw;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-weight: bold;
+	font-size: 20px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+
+.Services .Container .Wrapper .PostConstruction .Main .Image{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 30vh;	
+	width: 20vw;
+	border-top-right-radius: 0px;
+	border-top-left-radius: 0px;
+	
+}
+
+
+	
+.Services .Container .Wrapper .PostConstruction .Texts{
+	width: 20vw;
+	height: 20vh;
+	display: flex;
+	flex-direction: column;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+	
+.Services .Container .Wrapper .PostConstruction .Texts p{
+	background-color:#504fb4f0;
+	color: #e3e5f2;
+	height: 20vh;
+	width: 18vw;
+	display: flex;
+	align-items: center;
+	padding: 1vw;
+	font-weight: normal;
+	font-size: 14px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+
+/*OFFICE CLEANING*/
+.Services .Container .Wrapper .OfficeCleaning{
+	width: 20vw;
+	height:  60vh;
+	display: flex;
+	padding-top: 2.5vh;
+	padding-bottom: 2.5vh;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.Services .Container .Wrapper .OfficeCleaning .Main{
+	display: flex;
+	flex-direction: column;
+	height: 40vh;
+	width: 20vw;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+
+.Services .Container .Wrapper .OfficeCleaning .Main h4{
+	background-color: #504fb4f0;
+	color: #e3e5f2;
+	height: 10vh;
+	width: 20vw;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-weight: bold;
+	font-size: 20px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+
+.Services .Container .Wrapper .OfficeCleaning .Main .Image{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 30vh;	
+	width: 20vw;
+	border-top-right-radius: 0px;
+	border-top-left-radius: 0px;
+	
+}
+
+
+	
+.Services .Container .Wrapper .OfficeCleaning .Texts{
+	width: 20vw;
+	height: 20vh;
+	display: flex;
+	flex-direction: column;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+	
+.Services .Container .Wrapper .OfficeCleaning .Texts p{
+	background-color:#504fb4f0;
+	color: #e3e5f2;
+	height: 20vh;
+	width: 18vw;
+	display: flex;
+	align-items: center;
+	padding: 1vw;
+	font-weight: normal;
+	font-size: 14px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+
+/*MOVE IN */
+
+.Services .Container .Wrapper .MoveIn{
+	width: 20vw;
+	height:  60vh;
+	display: flex;
+	padding-top: 2.5vh;
+	padding-bottom: 2.5vh;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.Services .Container .Wrapper .MoveIn .Main{
+	display: flex;
+	flex-direction: column;
+	height: 40vh;
+	width: 20vw;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+
+.Services .Container .Wrapper .MoveIn .Main h4{
+	background-color: #504fb4f0;
+	color: #e3e5f2;
+	height: 10vh;
+	width: 20vw;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-weight: bold;
+	font-size: 20px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+
+.Services .Container .Wrapper .MoveIn .Main .Image{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 30vh;	
+	width: 20vw;
+	border-top-right-radius: 0px;
+	border-top-left-radius: 0px;
+	
+}
+
+
+	
+.Services .Container .Wrapper .MoveIn .Texts{
+	width: 20vw;
+	height: 20vh;
+	display: flex;
+	flex-direction: column;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+	
+.Services .Container .Wrapper .MoveIn .Texts p{
+	background-color:#504fb4f0;
+	color: #e3e5f2;
+	height: 20vh;
+	width: 18vw;
+	display: flex;
+	align-items: center;
+	padding: 1vw;
+	font-weight: normal;
+	font-size: 14px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}

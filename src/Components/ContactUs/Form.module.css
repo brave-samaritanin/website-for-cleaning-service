@@ -1,0 +1,95 @@
+.Form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.Form .Container{
+    height: 75vh;
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(20, 20, 197, 0.568);
+    padding-top: 4vh;
+    border-radius: 5px;
+}
+
+.Form .Container .Name{
+    width: 60vw;
+    height: 10vh;
+    margin-bottom: 4vh;
+    margin-top: 2vh;
+}
+
+.Form .Container .Name label{
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+}
+
+.Form .Container .Name input{
+    width: 60vw;
+    height: 8vh;
+    border-radius: 10px;
+}
+
+
+.Form .Container .Email{
+    width: 60vw;
+    height: 10vh;
+    margin-bottom: 4vh;
+    margin-top: 2vh;
+}
+
+.Form .Container .Email label{
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+}
+
+.Form .Container .Email input{
+    width: 60vw;
+    height: 8vh;
+    border-radius: 10px;
+}
+
+.Form .Container .Message{
+    width: 60vw;
+    height: 30vh;
+    margin-bottom: 3vh;
+}
+
+.Form .Container .Message label{
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+}
+
+.Form .Container .Message textarea{
+    width: 60vw;
+    height: 20vh;
+    border-radius: 5px;
+}
+
+.Form .Container .Button{
+    width: 20vw;
+    height: 8vh;
+    margin-bottom: 2vh;
+    border-radius: 5px;
+}
+
+.Form .Container .Button button{
+    width: 20vw;
+    height: 8vh;
+    border-radius: 5px;
+    background-color: white;
+    cursor: pointer;
+}
+
+.Form .Container .Button button span{
+    font-weight: bold;
+    font-size: 13px;
+}
